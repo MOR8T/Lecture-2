@@ -3,11 +3,22 @@
 #
 # Comparison logical operator
 #
-## Operator and/&& 
+## Operator and / && 
 ![](./img/js2.jpg)
 #
-## Operator or/||
+## Operator or / ||
 ![](./img/js3.jpg)
 #
-## Operator not/!
+## Operator not / !
 ![](./img/js4.jpg)
+#
+# if / else, Switch and Ternary operator
+#
+## if
+![](./img/js5.jpg)
+#
+## if ... else
+![](./img/js5.jpg)
+#
+## if ... else if... else
+![](./img/js5.jpg)

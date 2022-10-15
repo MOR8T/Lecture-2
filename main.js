@@ -28,3 +28,40 @@
 // console.log(!false);  // true
 
 // if / else
+
+// #1
+
+let a = 5;
+
+if(a < 6){
+    a = a+6;
+}
+console.log(a); // 11
+
+// #2
+
+let b = 7;
+
+if(b % 2 == 0){
+    console.log("Even");
+}
+else{
+    console.log("Odd");
+}
+// Odd
+
+// #3
+
+let c = 0;
+
+if(c < 0){
+    console.log(c+1);
+}
+else if(c < 0){
+    console.log(c-1);
+}
+else{
+    console.log(c);
+}
+// 0
+
