@@ -14,11 +14,11 @@
 #
 # if / else, Switch and Ternary operator
 #
-## if
+## Operator if()
 ![](./img/js5.jpg)
 #
-## if ... else
+## Operator if() ... else
 ![](./img/js5.jpg)
 #
-## if ... else if... else
+## Operator if() ... else if()... else
 ![](./img/js5.jpg)
