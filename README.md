@@ -37,6 +37,9 @@
 ## while loop
 ![](./img/js11.jpg)
 #
+## do while loop
+![](./img/js14.jpg)
+#
 ## break and continue
 ![](./img/js12.jpg)
 ![](./img/js13.jpg)

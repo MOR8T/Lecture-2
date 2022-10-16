@@ -115,10 +115,21 @@
 // }
 // // 1 2 
 
-for(let i=0; i<10; i++){
-    if(i % 2 != 0){continue;}
+// for(let i=0; i<10; i++){
+//     if(i % 2 != 0){continue;}
 
-    console.log(i);
-}
-// 0 2 4 6 8
+//     console.log(i);
+// }
+// // 0 2 4 6 8
 
+// do while
+
+// let a = 5;
+// let i = 1;
+// do {
+//     console.log(i);
+//     i++;
+// }while(i<=a)
+
+
+// ternari
