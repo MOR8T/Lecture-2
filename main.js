@@ -132,8 +132,8 @@
 // }while(i<=a)
 
 
-// ternari
+// // ternari
 
-let b = 29>200 ? true:false;
-console.log(b); // false
+// let b = 29>200 ? true:false;
+// console.log(b); // false
 
